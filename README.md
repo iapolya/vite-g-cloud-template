@@ -1,6 +1,4 @@
-# google cloud build template (vite)
-
-Это просто шаблон!!!!
+# Google Cloud Build template (vite)
 
 1. Создать репозиторий в GC и привязать его к гитхабу
 2. Добавить триггер и указать environment variables
